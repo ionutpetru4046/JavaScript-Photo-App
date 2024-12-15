@@ -10,19 +10,20 @@ export default class PhotoGrid {
             return;
         }
 
-        this.data.forEach(thumbnail => this.thumbnails.push(new thumbnail(thumbnail)));
+        this.data.forEach(thumbnail => this.thumbnails.push(new Thumbnail(thumbnail)));
     }
-
+    
     render() {
         this.componentWillRender();
-    }
 
-    render() {
+        let thumbnailsHTML = "";
+        this.thumbnails.forEach(thumbnail => thumbnailsHTML += thumbnail.render());
+
       return `
         <div class="container">
           <div class="row">
             <div class="col-md-4 col-xs-6">
-             ${new Thumbnail().render()}
+            ${thumbnailsHTML}
             </div>
           </div>
         </div>      
