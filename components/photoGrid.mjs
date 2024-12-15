@@ -1,11 +1,22 @@
 import Thumbnail from "./thumbnail.mjs";
-
 export default class PhotoGrid {
     constructor(data) {
         this.data = data;
-        console.log(data);
+        this.thumbnails = [];
     }
-    
+
+    componentWillRender() {
+        if(this.thumbnails.length > 0) {
+            return;
+        }
+
+        this.data.forEach(thumbnail => this.thumbnails.push(new thumbnail(thumbnail)));
+    }
+
+    render() {
+        this.componentWillRender();
+    }
+
     render() {
       return `
         <div class="container">

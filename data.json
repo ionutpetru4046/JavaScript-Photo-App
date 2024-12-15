@@ -1,17 +1,17 @@
 [
     {
         "id":11,
-        "srcThumbnail":"assets/images/photo1.jpg",
-        "srcImage":"assets/images/photo1.jpg",
-        "title":"My ATS Resume 92 Score",
-        "shortDesc":"This Resume Meet the Requirements",
-        "desc":"Check this ATS Resume Builder 2024"
+        "srcThumbnail":"assets/images/photo2.jpg",
+        "srcImage":"assets/images/photo2.jpg",
+        "title":"Javascript Deep Clone",
+        "shortDesc":"Javascript Deep Clone Object",
+        "desc":"Javascript"
     },
     {
         "id":22,
         "srcThumbnail":"assets/images/photo2.jpg",
         "srcImage":"assets/images/photo1.jpg",
-        "title":"My ATS Resume 92 Score",
+        "title":"Javascript Deep Clone",
         "shortDesc":"Javascript Deep Clone Object",
         "desc":"Javascript"
     },
