@@ -1,0 +1,66 @@
+[
+    {
+        "id":11,
+        "srcThumbnail":"assets/images/photo1.jpg",
+        "srcImage":"assets/images/photo1.jpg",
+        "title":"My ATS Resume 92 Score",
+        "shortDesc":"This Resume Meet the Requirements",
+        "desc":"Check this ATS Resume Builder 2024"
+    },
+    {
+        "id":22,
+        "srcThumbnail":"assets/images/photo2.jpg",
+        "srcImage":"assets/images/photo1.jpg",
+        "title":"My ATS Resume 92 Score",
+        "shortDesc":"Laptop Office",
+        "desc":"My Laptop Office Desktop"
+    },
+    {
+        "id":33,
+        "srcThumbnail":"assets/images/photo3.jpg",
+        "srcImage":"assets/images/photo1.jpg",
+        "title":"My ATS Resume 92 Score",
+        "shortDesc":"This Resume Meet the Requirements",
+        "desc":"Check this ATS Resume Builder 2024"
+    },
+    {
+        "id":44,
+        "srcThumbnail":"assets/images/photo4.jpg",
+        "srcImage":"assets/images/photo1.jpg",
+        "title":"My ATS Resume 92 Score",
+        "shortDesc":"This Resume Meet the Requirements",
+        "desc":"Check this ATS Resume Builder 2024"
+    },
+    {
+        "id":55,
+        "srcThumbnail":"assets/images/photo5.jpg",
+        "srcImage":"assets/images/photo1.jpg",
+        "title":"My ATS Resume 92 Score",
+        "shortDesc":"This Resume Meet the Requirements",
+        "desc":"Check this ATS Resume Builder 2024"
+    },
+    {
+        "id":66,
+        "srcThumbnail":"assets/images/photo6.jpg",
+        "srcImage":"assets/images/photo1.jpg",
+        "title":"My ATS Resume 92 Score",
+        "shortDesc":"This Resume Meet the Requirements",
+        "desc":"Check this ATS Resume Builder 2024"
+    },
+    {
+        "id":77,
+        "srcThumbnail":"assets/images/photo7.jpg",
+        "srcImage":"assets/images/photo1.jpg",
+        "title":"My ATS Resume 92 Score",
+        "shortDesc":"This Resume Meet the Requirements",
+        "desc":"Check this ATS Resume Builder 2024"
+    },
+    {
+        "id":88,
+        "srcThumbnail":"assets/images/photo8.jpg",
+        "srcImage":"assets/images/photo1.jpg",
+        "title":"My ATS Resume 92 Score",
+        "shortDesc":"This Resume Meet the Requirements",
+        "desc":"Check this ATS Resume Builder 2024"
+    }
+]
