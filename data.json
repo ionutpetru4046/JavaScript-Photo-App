@@ -12,55 +12,63 @@
         "srcThumbnail":"assets/images/photo2.jpg",
         "srcImage":"assets/images/photo1.jpg",
         "title":"My ATS Resume 92 Score",
-        "shortDesc":"Laptop Office",
-        "desc":"My Laptop Office Desktop"
+        "shortDesc":"Javascript Deep Clone Object",
+        "desc":"Javascript"
     },
     {
         "id":33,
         "srcThumbnail":"assets/images/photo3.jpg",
         "srcImage":"assets/images/photo1.jpg",
         "title":"My ATS Resume 92 Score",
-        "shortDesc":"This Resume Meet the Requirements",
-        "desc":"Check this ATS Resume Builder 2024"
+        "shortDesc":"Office LAptop",
+        "desc":"Office Laptop"
     },
     {
         "id":44,
         "srcThumbnail":"assets/images/photo4.jpg",
         "srcImage":"assets/images/photo1.jpg",
         "title":"My ATS Resume 92 Score",
-        "shortDesc":"This Resume Meet the Requirements",
-        "desc":"Check this ATS Resume Builder 2024"
+        "shortDesc":"LCD Plasma",
+        "desc":"LCD Monitor"
     },
     {
         "id":55,
         "srcThumbnail":"assets/images/photo5.jpg",
         "srcImage":"assets/images/photo1.jpg",
         "title":"My ATS Resume 92 Score",
-        "shortDesc":"This Resume Meet the Requirements",
-        "desc":"Check this ATS Resume Builder 2024"
+        "shortDesc":"LCD Plasma Monitor 2",
+        "desc":"LCD Plasma Desktop"
     },
     {
         "id":66,
         "srcThumbnail":"assets/images/photo6.jpg",
         "srcImage":"assets/images/photo1.jpg",
         "title":"My ATS Resume 92 Score",
-        "shortDesc":"This Resume Meet the Requirements",
-        "desc":"Check this ATS Resume Builder 2024"
+        "shortDesc":"LCD Plasma Monitor 3",
+        "desc":"LCD Monitor"
     },
     {
         "id":77,
         "srcThumbnail":"assets/images/photo7.jpg",
         "srcImage":"assets/images/photo1.jpg",
         "title":"My ATS Resume 92 Score",
-        "shortDesc":"This Resume Meet the Requirements",
-        "desc":"Check this ATS Resume Builder 2024"
+        "shortDesc":"LCD Plasma Monitor 4",
+        "desc":"LCD Plasma Desktop"
     },
     {
         "id":88,
         "srcThumbnail":"assets/images/photo8.jpg",
         "srcImage":"assets/images/photo1.jpg",
         "title":"My ATS Resume 92 Score",
-        "shortDesc":"This Resume Meet the Requirements",
-        "desc":"Check this ATS Resume Builder 2024"
+        "shortDesc":"Top programming languages on GitHub",
+        "desc":"Top programming languages 2024"
+    }
+    {
+        "id":99,
+        "srcThumbnail":"assets/images/photo9.jpg",
+        "srcImage":"assets/images/photo1.jpg",
+        "title":"My ATS Resume 92 Score",
+        "shortDesc":"Must have Tools",
+        "desc":"Developers 2024"
     }
 ]
