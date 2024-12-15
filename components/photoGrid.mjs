@@ -5,6 +5,7 @@ export default class PhotoGrid {
         this.data = data;
         console.log(data);
     }
+    
     render() {
       return `
         <div class="container">
